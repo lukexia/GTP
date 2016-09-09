@@ -1,0 +1,4 @@
+name: GTP
+
+dependencies:
+    - python=3.5
